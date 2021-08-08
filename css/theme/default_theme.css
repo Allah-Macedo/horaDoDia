@@ -1,0 +1,23 @@
+.manha_theme:root {
+   --main_color:  #FFF5EB;
+   --text_color:  #5D534A;
+   --bg_default:  #DEEDF0;
+   --image_color: #7d7d7e;
+   --shadow_color:#b8a9a9;
+}
+
+.tarde_theme:root {
+   --main_color:  #DAD5AB;
+   --text_color:  #474646;
+   --bg_default:  #C3BA85;
+   --image_color: #7d7d7e;
+   --shadow_color:#60615e;
+}
+
+.noite_theme:root {
+   --main_color:  #2C394B;
+   --text_color:  #dbd5cf;
+   --bg_default:  #082032;
+   --image_color: #7d7d7e;
+   --shadow_color:#9b9c99;
+}

@@ -1,5 +1,5 @@
 .fim {
-    color: #5D534A;
+    color: var(--text_color);
     font-size: 12pt;
     font-weight: bold;
     font-style: italic;

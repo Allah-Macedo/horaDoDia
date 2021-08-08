@@ -9,5 +9,6 @@ body {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    background-color: #DEEDF0;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: var(--bg_default);
 }
