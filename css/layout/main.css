@@ -1,0 +1,7 @@
+.main_block {
+    width: 90%;
+    max-width: 500px;
+    height: 300px;
+    background-color: #FFF5EB;
+    border-radius: 15px;
+}
