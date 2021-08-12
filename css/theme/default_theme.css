@@ -1,4 +1,4 @@
-.manha_theme:root {
+.theme_manha:root {
    --main_color:  #FFF5EB;
    --text_color:  #5D534A;
    --bg_default:  #DEEDF0;
@@ -6,7 +6,7 @@
    --shadow_color:#b8a9a9;
 }
 
-.tarde_theme:root {
+.theme_tarde:root {
    --main_color:  #DAD5AB;
    --text_color:  #474646;
    --bg_default:  #C3BA85;
@@ -14,7 +14,7 @@
    --shadow_color:#60615e;
 }
 
-.noite_theme:root {
+.theme_noite:root {
    --main_color:  #2C394B;
    --text_color:  #dbd5cf;
    --bg_default:  #082032;

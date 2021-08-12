@@ -9,6 +9,6 @@ body {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Rubik', sans-serif;
     background-color: var(--bg_default);
 }

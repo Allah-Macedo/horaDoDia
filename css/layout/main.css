@@ -4,26 +4,24 @@
     align-items: center;
     justify-content: space-around;
     width: 90%;
-    max-width: 500px;
+    max-width: 400px;
     height: 300px;
     padding: 1rem;
     border-radius: 15px;
     background-color: var(--main_color);
-    box-shadow: 2px 2px 5px var(--shadow_color);
+    box-shadow: 1px 1px 15px var(--shadow_color);
 }
 
 /* testo com os outputs */
-.output_txt {
+:is(.txt_area) .mensageHora , .greetings {
     color: var(--text_color);
     font-size: 17pt;
     text-align: center;
 }
-
 /* imagem de output */
-.imagemDoDia {
+.imageHora {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background: var(--image_color) url('../../assets/noite.jpg') no-repeat center;
-    background-size:cover;
+    object-fit: cover;
 }
